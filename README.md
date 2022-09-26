@@ -2,7 +2,7 @@
 
 🎯 About
 
-This is Collabarative Project done by <a href="https://github.com/pushpraj15295/" target="_blank">Pushpraj Patel</a>  &  <a href="https://github.com/shaileshwebdeveloper" target="_blank">Shailesh Sampat</a> 
+This is Collabarative Project. We made functional homepage, Product page, Cart page and login page.
 
 ✅ Preview 
 
